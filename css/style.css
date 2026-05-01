@@ -1,0 +1,56 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    height: 500px;
+    width:30%;
+    
+}
+
+.box1{
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+}
+
+.box2{
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+}
+
+.box3{
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+}
+
+.box4{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.box5{
+    border: 1px solid black;
+    width: 200px;
+    height: 80px
+}
+.box6{
+    border: 1px solid black;
+}
+.box7{
+    border: 1px solid black;
+}
+.box8{
+    border: 1px solid black;
+}
+.box9{
+    border: 1px solid black;
+}
+.box10{
+    border: 1px solid black;
+}
